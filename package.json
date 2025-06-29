@@ -1,0 +1,13 @@
+{
+  "name": "discord-ai-chatbot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.11.0",
+    "node-fetch": "^3.3.2"
+  }
+}
